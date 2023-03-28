@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**FERNANDEZATZIRY/FERNANDEZATZIRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## S02E06 Asincronia en JS Final
+### DESCRIPCION DEL PROYECTO
+#### Creamos un programa que te permite cargar una imagen aleatoria de un gato con solo presionar un botón.
+Integrado una API de imágenes de gatos que nos permite acceder a una gran cantidad de imágenes de gatos. De esta manera, siempre tendrás una nueva imagen de un gato.
+### MATERIA
+#### Pila Completa II
+### INSTITUCION
+#### Instituto Tecnológico de Gustavo A. Madero
+### INTEGRANTES
+#### Fernandez Torres Andrea Atziry
+#### Reyes Landin Vianney Abigail
